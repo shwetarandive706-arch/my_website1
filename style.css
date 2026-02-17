@@ -20,7 +20,7 @@
     height: 70px;
 }
 .logo {
-    color: #9d4edd;
+    color: #e0aaff;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -46,13 +46,13 @@ ul li {
 }
 ul li a {
     text-decoration: none;
-    color: white;
+    color: #fff;
     font-family: Arial;
     font-weight: bold;
     transition: 0.4s ease-in-out;
 }
 ul li a:hover {
-    color: #ff7200;
+    color: #9d4edd;
 }
 .search {
     width: 330px;
@@ -65,7 +65,7 @@ ul li a:hover {
     height: 40px;
     background: transparent;
     margin-top: 13px;
-    border: 1px solid #ff7200;
+    border: 1px solid #9d4edd;
     color: #fff;
     border-right: none;
     font-size: 16px;
@@ -77,8 +77,8 @@ ul li a:hover {
 .btn{ 
     width: 100px;
     height: 40px;
-    background: #ff7200;
-    border: 2px solid #ff7200;
+    background: #9d4edd;
+    border: 2px solid #9d4edd;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -116,7 +116,7 @@ ul li a:hover {
 .content .cn{
     width: 160px;
     height: 40px;
-    background: #ff7200;
+    background: #9d4edd;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -133,7 +133,7 @@ ul li a:hover {
     background-color: #fff;
 }
 .content span{
-    color: #ff7200;
+    color: #c77dff;
     font-size: 50px;
 }
 .form{
@@ -150,7 +150,7 @@ ul li a:hover {
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: #ff7200;
+    color: #5a189a;
     font-size: 22px;
     background-color: #fff;
     border-radius: 10px;
@@ -161,7 +161,7 @@ ul li a:hover {
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid #ff7200;
+    border-bottom: 1px solid #9d4edd;
     border-top: none;
     border-right: none;
     border-left: none;
@@ -181,18 +181,18 @@ ul li a:hover {
 .btnn {
     width: 240px;
     height: 40px;
-    background: #ff7200;
+    background: #c77dff;
     border: none;
     margin-top: 30px;
     font-size: 18px;
     border-radius: 10px;
     cursor: pointer;
-    color: #fff;
+    color: #c77dff;
     transition: 0.4s ease;
 }
 .btnn:hover{
     background: #fff;
-    color: #ff7200;
+    color: #c77dff;
 }
 .btnn a {
     text-decoration: none;
@@ -207,7 +207,7 @@ ul li a:hover {
 }
 .form .link a{
     text-decoration: none;
-    color: #ff7200;
+    color: #c77dff;
 }
 .liw {
     padding-top: 15px;
@@ -227,5 +227,5 @@ ul li a:hover {
     text-align: center;
 }
 .icon ion-icon:hover{
-    color: #ff7200;
+    color: #c77dff;
 }
